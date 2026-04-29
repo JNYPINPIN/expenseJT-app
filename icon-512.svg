@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="102" fill="#6C63FF"/>
+  <rect x="80" y="155" width="266" height="200" rx="30" fill="#FFE0B2" stroke="#FFF" stroke-width="8"/>
+  <rect x="80" y="155" width="266" height="70" rx="30" fill="#FFCC80" stroke="#FFF" stroke-width="8"/>
+  <circle cx="370" cy="150" r="62" fill="#FFD54F" stroke="#FFF" stroke-width="8"/>
+  <text x="370" y="168" text-anchor="middle" font-size="60" font-weight="bold" fill="#F57F17" font-family="sans-serif">฿</text>
+  <text x="256" y="430" text-anchor="middle" font-size="42" fill="white" font-family="sans-serif">รายจ่าย</text>
+</svg>
